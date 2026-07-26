@@ -1,57 +1,163 @@
-# 💫 Hi 👋, I'm Hamza Maqsood
-
-**AI Engineer | Generative AI Developer | Automation Builder 🚀**
-
-I am a Computer Science student passionate about Artificial Intelligence, 
-Large Language Models (LLMs), AI Agents, and building intelligent automation systems.
-
-Email Me 👉 ✉️ **chaudharyhamza112113@gmail.com** For Collaboration, Projects, or Anything Related to AI & Technology. 😊
-
-- 🔭 **I’m currently working on:** AI Agents, Generative AI Projects, RAG Systems, and n8n Automation Workflows
-
-- 🌱 **I’m currently learning:** LangChain, LLM Applications, Machine Learning, Deep Learning, and AI Automation
-
-- 👯 **I’m looking to collaborate on:** AI Projects, Open Source Contributions, GenAI Applications, and Automation Solutions
-
-- 🤔 **I’m looking for help with:** Building scalable AI solutions and improving my expertise in Generative AI
-
-- 💬 **Ask me about:** Python, AI, Machine Learning, Generative AI, LLMs, LangChain, and Automation
-
-- 📫 **How to reach me:** Add your email here
-
-- 😄 **Pronouns:** He/Him
-
-- ⚡ **Fun fact:** I love exploring new AI technologies and turning ideas into real-world solutions 🚀
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chaudharyy_hamzaa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/chaudharyH57710) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Hamza Maqsood) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chaudharyhamza112113@gmail.com) 
-
-<!-- Snake Game Repo View -->
-
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:667eea,100:764ba2&section=header&reversal=false&textBg=false&fontSize=85&fontAlign=50&desc=Hamza%20Maqsood&descSize=22&descAlign=50" width="100%"/>
 </div>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=for-the-badge&logo=CrateDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=hamza-maqsood-ai&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=hamza-maqsood-ai&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hamza-maqsood-ai&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hamza-maqsood-ai&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <h3>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=667EEA&center=true&width=700&lines=AI+Engineer+%7C+Gen+AI+Developer;Building+Intelligent+Automation+Systems;LLMs+%2B+RAG+%2B+AI+Agents;Transforming+Ideas+into+AI+Solutions" alt="Typing SVG" />
+  </h3>
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=hamza-maqsood-ai&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🤖 About Me
+
+I'm an **AI Engineer & Generative AI Developer** passionate about building intelligent systems that solve real-world problems. I specialize in **Large Language Models (LLMs)**, **Retrieval Augmented Generation (RAG)**, and **AI Agent architectures**.
+
+My focus is on creating:
+- 🧠 **AI Agents** with reasoning and tool usage capabilities
+- 📚 **RAG Systems** for intelligent document retrieval and processing
+- ⚙️ **Automation Workflows** powered by LLMs and intelligent APIs
+- 🔌 **LLM Applications** using modern frameworks and APIs
+
+I believe in building practical, production-ready AI solutions that deliver measurable value.
+
+---
+
+## 🎯 Current Focus
+
+| Building | Learning | Collaborating On |
+|----------|----------|-----------------|
+| 🧠 AI Agents & Agentic Frameworks | 🚀 Advanced LLM Architectures | 🤝 Generative AI Projects |
+| 📚 RAG Pipelines & Systems | 🔧 AI Agent Development | 🌐 Open Source AI Solutions |
+| 🤖 LLM-Powered Applications | 📊 Production RAG Systems | ⚡ Intelligent Automation |
+| ⚙️ n8n AI Automation Workflows | 🧠 Deep Learning | 🔌 Real-World AI Systems |
+
+---
+
+## 🛠️ AI Tech Stack
+
+### 🤖 Artificial Intelligence & LLMs
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging_Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### 🔌 LLM APIs & Services
+![OpenAI_API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google_Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq%20API-00AA00?style=for-the-badge&logo=groq&logoColor=white)
+
+### 🗂️ Vector Databases & Embeddings
+![Pinecone](https://img.shields.io/badge/Pinecone-5B9BD5?style=for-the-badge&logo=pinecone&logoColor=white)
+![Chroma](https://img.shields.io/badge/Chroma%20DB-9D4EDD?style=for-the-badge)
+![Weaviate](https://img.shields.io/badge/Weaviate-00D0FF?style=for-the-badge)
+
+### ⚙️ Automation & Workflow Tools
+![n8n](https://img.shields.io/badge/n8n-E53238?style=for-the-badge&logo=n8n&logoColor=white)
+![REST_API](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=postman&logoColor=white)
+
+### 💻 Programming & Databases
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hamza-maqsood-ai&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-maqsood-ai&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-maqsood-ai&theme=tokyonight&layout=compact&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 1. **AI Agent Development**
+Building intelligent AI agents capable of reasoning, tool usage, and autonomous task execution using modern LLM frameworks.
+- Multi-turn reasoning capabilities
+- Tool integration and API calling
+- Real-world problem solving
+
+### 2. **RAG Based AI Applications**
+Developing Retrieval Augmented Generation systems that combine document retrieval with LLMs for intelligent, context-aware responses.
+- Vector embedding & semantic search
+- Advanced retrieval mechanisms
+- Context-aware response generation
+
+### 3. **n8n AI Automation Workflows**
+Creating sophisticated automation systems that leverage LLMs and APIs to automate business processes and data workflows.
+- API orchestration
+- LLM integration in workflows
+- Scalable automation
+
+### 4. **Amazon Seller Lead Generation Automation**
+AI-powered automation system built with n8n for intelligent lead generation and business automation.
+- Automated data collection & processing
+- Lead qualification using AI
+- Business intelligence integration
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamza-maqsood-ai&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
+</div>
+
+---
+
+## 💬 AI Engineering Philosophy
+
+<div align="center">
+  <blockquote style="border-left: 4px solid #667eea; padding: 20px; margin: 30px 0; background: rgba(102, 126, 234, 0.1); border-radius: 8px;">
+    <p style="font-size: 18px; color: #a0aec0; font-style: italic; margin: 0;">
+      "The future of software development is intelligent, autonomous, and AI-driven. The question isn't whether AI will transform technology—it's how we'll harness it to build better solutions."
+    </p>
+  </blockquote>
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <p style="font-size: 16px; margin: 20px 0; color: #a0aec0;">
+    Let's collaborate on AI projects, innovation in LLMs, and building intelligent systems.
+  </p>
+  
+  <a href="https://github.com/hamza-maqsood-ai">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://twitter.com/chaudharyH57710">
+    <img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://instagram.com/chaudharyy_hamzaa">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:chaudharyhamza112113@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:667eea,100:764ba2&section=footer&reversal=true" width="100%"/>
+  
+  <p style="color: #667eea; font-size: 14px; margin-top: 20px;">
+    <img src="https://komarev.com/ghpvc/?username=hamza-maqsood-ai&style=flat-square&color=667eea" alt="Profile Views" />
+  </p>
+  
+  <p style="color: #a0aec0; font-size: 13px;">
+    © 2024 Hamza Maqsood | AI Engineer | Building Intelligent Systems ⚡
+  </p>
+</div>
